@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Soil Hydrology</title>
+    <link>http://www.soilhydrology.com/blog/</link>
+    <description>Recent content in Blogs on Soil Hydrology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nimrod Schwartz</copyright>
+    <lastBuildDate>Sun, 02 Apr 2017 21:56:55 +0100</lastBuildDate>
+    <atom:link href="/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inline 🐣Text Styles</title>
+      <link>http://www.soilhydrology.com/blog/inline-style/</link>
+      <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/inline-style/</guid>
+      <description>&lt;p&gt;Chocolate tiramisu pastry a link cotton candy sesame snaps. Dessert cake chocolate bar a bold part sugar plum bonbon marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie a marked part cheesecake donut. Jelly-o &lt;some&gt; $code marzipan cake. Bonbon sesame snaps chocolate an italic part oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soil Hydrology &amp; Hydrogeophysics</title>
+      <link>http://www.soilhydrology.com/blog/welcome/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-kube-an-open-source-documentation-like-theme-for-hugo&#34;&gt;Welcome to Kube – an open source documentation like theme for Hugo&lt;/h1&gt;
+
+&lt;p&gt;Hi there and welcome to kube - my two theme for the static site generator &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;hugo&lt;/a&gt;. kube is open source and can be found on &lt;a href=&#34;https://kube.elemnts.org/&#34; target=&#34;_blank&#34;&gt;kube&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/p&gt;
+
+&lt;p&gt;Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake
+jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar
+cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
+
+&lt;p&gt;Chocolate tiramisu pastry &lt;a href=&#34;http://zutrinken.com&#34; target=&#34;_blank&#34;&gt;a link&lt;/a&gt; cotton candy sesame snaps. Dessert cake chocolate bar &lt;strong&gt;a bold part&lt;/strong&gt; sugar plum bonbon 🐓💨 marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie &lt;mark&gt;a marked part&lt;/mark&gt; cheesecake donut. Jelly-o &lt;code&gt;&amp;lt;some&amp;gt; $code&lt;/code&gt; marzipan cake. Bonbon sesame snaps chocolate &lt;em&gt;an italic part&lt;/em&gt; oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate &lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;A&lt;/kbd&gt; bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+
+&lt;h2 id=&#34;ordered-unordered-lists&#34;&gt;Ordered &amp;amp; Unordered Lists&lt;/h2&gt;
+
+&lt;p&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon. Jelly beans pudding oat cake pie.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jelly beans pudding oat cake pie.&lt;/li&gt;
+&lt;li&gt;Cupcake cupcake oat cake candy lemon&lt;/li&gt;
+&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish&lt;/li&gt;
+&lt;li&gt;Sweet roll sweet sugar plum donut
+
+&lt;ul&gt;
+&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
+&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
+&lt;li&gt;Croissant jujubes topping tart soufflé pudding
+
+&lt;ul&gt;
+&lt;li&gt;Cheesecake caramels icing&lt;/li&gt;
+&lt;li&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish&lt;/li&gt;
+&lt;li&gt;Sweet roll sweet sugar plum donut
+
+&lt;ul&gt;
+&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
+&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Liquorice marshmallow sweet macaroon. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.&lt;/p&gt;
+
+&lt;dl&gt;&lt;dt&gt;Ice cream&lt;/dt&gt;&lt;dd&gt;icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding&lt;/dd&gt;&lt;dt&gt;Cake&lt;/dt&gt;&lt;dd&gt;Jelly beans pudding oat cake pie&lt;/dd&gt;&lt;dt&gt;Drops marzipan icing&lt;/dt&gt;&lt;dd&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop&lt;/dd&gt;&lt;/dl&gt;
+
+&lt;p&gt;Soufflé tart topping gummi bears jujubes lollipop ice cream pudding. Apple pie jelly-o powder powder sweet.&lt;/p&gt;
+
+&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding. Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar plum cake.&lt;/p&gt;
+
+&lt;h2 id=&#34;tables-blockquotes-and-codeblocks&#34;&gt;Tables, Blockquotes and Codeblocks&lt;/h2&gt;
+
+&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;RGB&lt;/th&gt;
+&lt;th&gt;WMYN&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Red&lt;/td&gt;
+&lt;td&gt;Cyan&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Green&lt;/td&gt;
+&lt;td&gt;Magenta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Yellow&lt;/td&gt;
+&lt;td&gt;Black&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake.&lt;/p&gt;
+
+&lt;p&gt;Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding.&lt;/p&gt;
+
+&lt;p&gt;Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar plum cake. Liquorice marshmallow sweet macaroon.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;blockquote&amp;gt;
+    &amp;lt;p&amp;gt;For example.&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Macaroon jelly toffee cheesecake muffin lollipop dragée cake gummies. Cotton candy biscuit cupcake. Cupcake chupa chups carrot cake. Chocolate bar donut gummies wafer pastry sesame snaps oat cake.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies. Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake. Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Typography with kube</title>
+      <link>http://www.soilhydrology.com/blog/typography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/typography/</guid>
+      <description>&lt;p&gt;&lt;h3 class=&#34;section-head&#34; id=&#34;h-get-started&#34;&gt;&lt;a href=&#34;#h-get-started&#34;&gt;Get Started&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Typography of Kube based on the 4px horizontal grid, it means that for the headers, paragraphs, quotes and any other texts chosen are a combination of line-height, that fit into the 4px grid and help set the horizontal rhythm of design by default.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;4px horizontal rhythm&#34; height=&#34;180&#34; src=&#34;http://www.soilhydrology.com/img/kube/typography/01.png&#34; width=&#34;676&#34;&gt;
+  &lt;figcaption&gt;
+    4px grid for typography - the magic of the horizontal rhythm
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;With this feature, you can quickly and easily make a solid and harmonious-looking website and UI design. You do not need to do complicated calculations to find the size and proportions of the text baseline, no need to look for the magic formula to build a horizontal rhythm. Magic is already in Kube.&lt;/p&gt;
+&lt;p&gt;You can use all the default settings of typography and it will always look balanced. But also you can easily change any font sizes, just try to set the value of line-height fold for 4px and your texts will still look great.&lt;/p&gt;
+&lt;p&gt;Additional balance and harmony, creates a classic typography scale, used in Kube.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;the typography scale&#34; height=&#34;140&#34; src=&#34;http://www.soilhydrology.com/img/kube/typography/02.png&#34; width=&#34;520&#34;&gt;
+  &lt;figcaption&gt;
+    The typography scale helps to build a balance between the size of headings and text elements
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-headings&#34;&gt;&lt;a href=&#34;#h-headings&#34;&gt;Headings&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Use h1-h6 tags or &lt;code&gt;.h1-.h6&lt;/code&gt; classes to define headers and &lt;code&gt;class=&amp;ldquo;title&amp;rdquo;&lt;/code&gt; for the title, which is suitable for the most important inscriptions, for example, in the hero or covers.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;h1 class=&#34;title&#34;&gt;Title&lt;/h1&gt;
+  &lt;h1&gt;Heading 1&lt;/h1&gt;
+  &lt;h2&gt;Heading 2&lt;/h2&gt;
+  &lt;h3&gt;Heading 3&lt;/h3&gt;
+  &lt;h4&gt;Heading 4&lt;/h4&gt;
+  &lt;h5&gt;Heading 5&lt;/h5&gt;
+  &lt;h6&gt;Heading 6&lt;/h6&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;title&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h1&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&amp;hellip;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h6&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h6&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-paragraphs&#34;&gt;&lt;a href=&#34;#h-paragraphs&#34;&gt;Paragraphs&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The base pragraph has an ideal ratio of font size and baseline. This text is easy to read in most cases.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;16px/24px&lt;/p&gt;
+  &lt;p&gt;By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.&lt;/p&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;In special cases, you can use modifiers which increase or decrease the text size. It is useful for building a variety of websites and UI, when you need to make a lead text or signatures with a small font size .&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;20px/32px&lt;/p&gt;
+  &lt;p class=&#34;large&#34;&gt;By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.&lt;/p&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;large&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;18px/28px&lt;/p&gt;
+  &lt;p class=&#34;big&#34;&gt;By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.&lt;/p&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;big&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;14px/20px&lt;/p&gt;
+  &lt;p class=&#34;small&#34;&gt;By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.&lt;/p&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;12px/20px&lt;/p&gt;
+  &lt;p class=&#34;smaller&#34;&gt;By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver.&lt;/p&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;smaller&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-columns&#34;&gt;&lt;a href=&#34;#h-columns&#34;&gt;Columns&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kube has three classes of &lt;code&gt;.columns-2&lt;/code&gt; through &lt;code&gt;.columns-4&lt;/code&gt; to create a multi-column layout. All multi-column layouts will be in a single column on mobile.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;2 columns&lt;/p&gt;
+  &lt;div class=&#34;columns-2&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;columns-2&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;3 columns&lt;/p&gt;
+  &lt;div class=&#34;columns-3&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;columns-3&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p class=&#34;section-item-desc&#34;&gt;4 columns&lt;/p&gt;
+  &lt;div class=&#34;columns-4&#34;&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;columns-4&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-quotes&#34;&gt;&lt;a href=&#34;#h-quotes&#34;&gt;Quotes&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Quotes in the text stand out for contrast and added variety to the text. In the quotes you can mark text as a paragraph tag and without it.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;No, she&amp;rsquo;ll probably make me do it. Goodbye, friends. I never thought I&amp;rsquo;d die like this. But I always really hoped. I saw you with those two &amp;ldquo;ladies of the evening&amp;rdquo; at Elzars. Explain that. I never loved you.&lt;/p&gt;
+  &lt;/blockquote&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;blockquote&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;blockquote&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Use &lt;code&gt;small&lt;/code&gt; tag for attribution. It&amp;rsquo;s a prefer way for semantic code.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Who&amp;rsquo;s brave enough to fly into something we all keep calling a death sphere? Yes. You gave me a dollar and some candy. I just want to talk. It has nothing to do with mating. Fry, that doesn&amp;rsquo;t make sense.&lt;/p&gt;&lt;small&gt;— Bender&lt;/small&gt;
+  &lt;/blockquote&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;blockquote&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;Quotation content&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;p&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;small&lt;/span&gt;&amp;gt;&lt;/span&gt;Author attribution&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;small&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;blockquote&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-pre-formatted&#34;&gt;&lt;a href=&#34;#h-pre-formatted&#34;&gt;Pre-formatted&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Pre-formatted text most often used to display code snippets or other text elements, for which you wish to preserve the exact formatting they&amp;rsquo;ve got.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;pre&gt;Function.prototype.inherits = function(parent)
+{
+    for (var key in parent.prototype)
+    {
+        this.prototype[key] = parent.prototype[key];
+    }
+};
+&lt;/pre&gt;
+  &lt;pre class=&#34;code&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;pre&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;pre&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;You feel free to use &lt;code&gt;code&lt;/code&gt; tag inside &lt;code&gt;pre&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;pre class=&#34;demo-pre&#34;&gt;&lt;code&gt;Function.prototype.inherits = function(parent)
+{
+    for (var key in parent.prototype)
+    {
+        this.prototype[key] = parent.prototype[key];
+    }
+};
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;pre&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;code&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;pre&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-inline-elements&#34;&gt;&lt;a href=&#34;#h-inline-elements&#34;&gt;Inline Elements&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kube features various inline formatting elements. They all have their own semantic meaning, but you&amp;rsquo;re free to use them just for their style.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+      &lt;th&gt;Tag&lt;/th&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+      &lt;th&gt;Tag&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;abbr title=&#34;Cascading Style Sheets&#34;&gt;CSS&lt;/abbr&gt;&lt;/td&gt;
+      &lt;td class=&#34;col-6&#34;&gt;&lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;cite&gt;Cite&lt;/cite&gt;&lt;/td&gt;
+      &lt;td class=&#34;col-6&#34;&gt;&lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;Code&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;samp&gt;Sample&lt;/samp&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;samp&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;var&gt;Variable&lt;/var&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;var&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;mark&gt;Mark&lt;/mark&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;mark&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;kbd&gt;Shortcut&lt;/kbd&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;kbd&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;del&gt;Deleted&lt;/del&gt;
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;i&gt;Italic&lt;/i&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;i&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;em&gt;Emphasis&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Highlighted&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;b&gt;Bold&lt;/b&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;b&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;x&lt;sup&gt;superscript&lt;/sup&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;x&lt;sub&gt;subscript&lt;/sub&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;small&gt;Small&lt;/small&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;small&amp;gt;&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;ins&gt;Inserted&lt;/ins&gt;
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-modifiers&#34;&gt;&lt;a href=&#34;#h-modifiers&#34;&gt;Modifiers&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Modifiers - a set of helper classes for creating accents in the text and for the solution of useful tasks without writing CSS code, for example, the alignment of the text in the center.&lt;/p&gt;
+&lt;p&gt;Modifiers can be applied to any tags as inline elements, links or block tags.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Example&lt;/th&gt;
+      &lt;th&gt;Modifier&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;muted&#34;&gt;Muted&lt;/span&gt;&lt;/td&gt;
+      &lt;td class=&#34;col-12&#34;&gt;&lt;code&gt;.muted&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a class=&#34;muted&#34; href=&#34;#&#34;&gt;Muted link&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.muted&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;a class=&#34;black&#34; href=&#34;#&#34;&gt;Black link&lt;/a&gt;
+      &lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.black&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;highlight&#34;&gt;Highlight&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.highlight&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;upper&#34;&gt;upper&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.upper&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;lower&#34;&gt;LOWER&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.lower&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;italic&#34;&gt;Italic&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.italic&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;strong&#34;&gt;Strong&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.strong&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong class=&#34;normal&#34;&gt;Not strong&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.normal&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;monospace&#34;&gt;Monospace&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.monospace&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;nowrap&#34;&gt;Nowrap&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.nowrap&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;nowrap&#34;&gt;Remove margin bottom&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.end&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;highlight&#34;&gt;Highlight&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.highlight&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;small&#34;&gt;Small&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.small&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;smaller&#34;&gt;Smaller&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.smaller&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;large&#34;&gt;Large&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.large&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;span class=&#34;big&#34;&gt;Big&lt;/span&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.big&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;text-left&#34;&gt;Text left&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.text-left&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;text-center&#34;&gt;Text center&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.text-center&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td class=&#34;text-right&#34;&gt;Text right&lt;/td&gt;
+      &lt;td&gt;&lt;code&gt;.text-right&lt;/code&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-figure&#34;&gt;&lt;a href=&#34;#h-figure&#34;&gt;Figure&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A figure tag features an image, a video or a code plus a caption. It is a good accessibility practice. It also helps serve responsive video to various devices when you wrap video into &lt;code&gt;.video-container&lt;/code&gt; class.&lt;/p&gt;
+&lt;h5&gt;Images&lt;/h5&gt;
+&lt;figure&gt;
+  &lt;img alt=&#34;Image&#34; height=&#34;533&#34; src=&#34;http://www.soilhydrology.com/img/favicons/logo-384x384.png&#34; width=&#34;800&#34;&gt;
+  &lt;figcaption&gt;
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit&amp;hellip;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&#34;end&#34;&gt;&lt;var&gt;HTML&lt;/var&gt;&lt;/p&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;img&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;src&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;image.jpg&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h5&gt;Video&lt;/h5&gt;
+&lt;figure&gt;
+  &lt;div class=&#34;video-container&#34;&gt;
+    &lt;iframe allowfullscreen frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/nywsA8wCCfY&#34; width=&#34;560&#34;&gt;&lt;/iframe&gt;
+  &lt;/div&gt;
+  &lt;figcaption&gt;
+    Journey Through The Ice | National Geographic
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&#34;end&#34;&gt;&lt;var&gt;HTML&lt;/var&gt;&lt;/p&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;video-container&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;iframe&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h5&gt;Code&lt;/h5&gt;
+&lt;figure&gt;
+  &lt;pre&gt;Function.prototype.inherits = function(parent)
+{
+    for (var key in parent.prototype)
+    {
+        this.prototype[key] = parent.prototype[key];
+    }
+};
+&lt;/pre&gt;
+  &lt;figcaption&gt;
+    One of the implementations of inheritance
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p class=&#34;end&#34;&gt;&lt;var&gt;HTML&lt;/var&gt;&lt;/p&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;pre&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;pre&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figcaption&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;figure&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-lists&#34;&gt;&lt;a href=&#34;#h-lists&#34;&gt;Lists&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Although you most likely will not ever need to do so, you can still nest as many list levels as you like.&lt;/p&gt;
+&lt;div class=&#34;row gutters&#34;&gt;
+  &lt;div class=&#34;col col-6&#34;&gt;
+    &lt;div class=&#34;example&#34;&gt;
+      &lt;ul&gt;
+        &lt;li&gt;list item 1&lt;/li&gt;
+        &lt;li&gt;list item 2
+          &lt;ul&gt;
+            &lt;li&gt;list item 2.1&lt;/li&gt;
+            &lt;li&gt;list item 2.2
+              &lt;ul&gt;
+                &lt;li&gt;list item 2.2.1&lt;/li&gt;
+                &lt;li&gt;list item 2.2.2&lt;/li&gt;
+              &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;list item 2.3&lt;/li&gt;
+            &lt;li&gt;list item 2.4&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;list item 3&lt;/li&gt;
+        &lt;li&gt;list item 4&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;col col-6&#34;&gt;
+    &lt;div class=&#34;example&#34;&gt;
+      &lt;ol&gt;
+        &lt;li&gt;list item 1&lt;/li&gt;
+        &lt;li&gt;list item 2
+          &lt;ol&gt;
+            &lt;li&gt;list item 2.1&lt;/li&gt;
+            &lt;li&gt;list item 2.2
+              &lt;ol&gt;
+                &lt;li&gt;list item 2.2.1&lt;/li&gt;
+                &lt;li&gt;list item 2.2.2&lt;/li&gt;
+              &lt;/ol&gt;
+            &lt;/li&gt;
+            &lt;li&gt;list item 2.3&lt;/li&gt;
+            &lt;li&gt;list item 2.4&lt;/li&gt;
+          &lt;/ol&gt;
+        &lt;/li&gt;
+        &lt;li&gt;list item 3&lt;/li&gt;
+        &lt;li&gt;list item 4&lt;/li&gt;
+      &lt;/ol&gt;
+      &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;ol&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;ol&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h5&gt;Unstyled List&lt;/h5&gt;
+&lt;p&gt;To remove default list styling, use &lt;code&gt;.unstyled&lt;/code&gt;.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;ul class=&#34;unstyled&#34;&gt;
+    &lt;li&gt;list item 1&lt;/li&gt;
+    &lt;li&gt;list item 2
+      &lt;ul&gt;
+        &lt;li&gt;list item 2.1&lt;/li&gt;
+        &lt;li&gt;list item 2.2&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;list item 3&lt;/li&gt;
+    &lt;li&gt;list item 4&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;unstyled&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h5&gt;Definition List&lt;/h5&gt;
+&lt;p&gt;From time to time, you may need to produce a list of definitions, and there&amp;rsquo;s one nicely built-in into Kube. We love semantic things. And lists. We love lists.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;dl&gt;
+    &lt;dt&gt;Term 1&lt;/dt&gt;
+    &lt;dd&gt;Description 1&lt;/dd&gt;
+    &lt;dt&gt;Term 2&lt;/dt&gt;
+    &lt;dd&gt;Description 2&lt;/dd&gt;
+    &lt;dt&gt;Term 3&lt;/dt&gt;
+    &lt;dd&gt;Description 3&lt;/dd&gt;
+  &lt;/dl&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;dl&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;dt&lt;/span&gt;&amp;gt;&lt;/span&gt;Term&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;dt&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;dd&lt;/span&gt;&amp;gt;&lt;/span&gt;Description&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;dd&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;dl&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prototyping with markdown</title>
+      <link>http://www.soilhydrology.com/blog/prototyping/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/prototyping/</guid>
+      <description>&lt;p&gt;&lt;img data-src=&#34;https://cldup.com/3tov0aCFh8.png&#34; class=&#34;lazyload&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been working on a large set of documentation for a prototype that will eventually make it into a product. One issue with the publishing system at my company is that it makes doing prototypes, or really anything not within the rigidly and narrowly scoped model, difficult to set up. It takes a lot of work just to get to the point where you can begin writing.&lt;/p&gt;
+
+&lt;p&gt;Since time was of the essence and writing is expensive, I decided to do the prototype outside of the publishing system. I also decided to avoid using the rigid DocBook variant we use. Instead, &lt;strong&gt;I figured I do the prototype in Markdown using Hugo generator&lt;/strong&gt;. It gives me reasonably ~full featured Markdown support, flexibility to work wherever I want, easy HTML~ ,nd the stack/sheet metaphor fits nicely with topic based writing.&lt;/p&gt;
+
+&lt;p&gt;I wasn&amp;rsquo;t sure how well the experiment was going to work when I started, but a few weeks in I think it is great. ~I was able to rapidly prototype fifteen topics in about ten days.~ The prototype pages look fairly close to what our actual system generates. ~I can quickly make changes to the content as needed and republish.~ ~The fact that I can work multi-platform is great. I am not chained to my desk. I can demo changes easily.~&lt;/p&gt;
+
+&lt;p&gt;~The fact that I am working in text that doesn&amp;rsquo;t have to be structured in a rigid format makes the work flow faster~. It provides flexibility for quick changes, yet also allows for topic orientation.
+For final production and long term maintenance, unstructured Markdown is not a great solution. There the benefits of the rigidity outweigh the cost. The rigidity enforces uniformity that large groups of variously skilled writers need to create and maintain content at scale.
+&amp;gt; For small, fast projects or prototyping Markdown, with Hugo, have proven to be an excellent solution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Messages</title>
+      <link>http://www.soilhydrology.com/blog/messages/</link>
+      <pubDate>Mon, 10 Apr 2017 16:41:34 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/messages/</guid>
+      <description>&lt;p&gt;&lt;h3 class=&#34;section-head&#34; id=&#34;h-usage&#34;&gt;&lt;a href=&#34;#h-usage&#34;&gt;Usage&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;#install&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message error open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message error&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message success open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message success&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message warning open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    &lt;h5&gt;Warning!&lt;/h5&gt;You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message warning&amp;rdquo;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;data-component&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h5&lt;/span&gt;&amp;gt;&lt;/span&gt;&amp;hellip;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h5&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &amp;hellip;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message focus open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message focus&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message black open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small white&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message black&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;message inverted open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34;&gt;
+    You have 2 modules waiting to installation. &lt;a href=&#34;&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code&#34;&gt;&amp;lt;div &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message inverted&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt;&amp;gt; &amp;hellip;  &amp;lt;span &lt;span class=&#34;hljs-class&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;class&lt;/span&gt;&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;close small&amp;rdquo;&lt;/span&gt;&amp;gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;xml&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-options&#34;&gt;&lt;a href=&#34;#h-options&#34;&gt;Options&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th class=&#34;w30&#34;&gt;Name&lt;/th&gt;
+      &lt;th class=&#34;w30&#34;&gt;Type&lt;/th&gt;
+      &lt;th class=&#34;w40&#34;&gt;Default&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;closeSelector&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;var&gt;string&lt;/var&gt;&lt;/td&gt;
+      &lt;td&gt;.close&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;closeEvent&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;var&gt;string&lt;/var&gt;&lt;/td&gt;
+      &lt;td&gt;click&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;animationOpen&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;var&gt;string&lt;/var&gt;&lt;/td&gt;
+      &lt;td&gt;fadeIn&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;animationClose&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;var&gt;string&lt;/var&gt;&lt;/td&gt;
+      &lt;td&gt;fadeOut&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Set an option&lt;/h4&gt;
+&lt;p&gt;Via data attribute:&lt;/p&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-keyword&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-built_in&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt; data-component=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;message&amp;rdquo;&lt;/span&gt; data-close-selector=&lt;span class=&#34;hljs-string&#34;&gt;&amp;rdquo;.my-custom-close&amp;rdquo;&lt;/span&gt;&amp;gt;
+    &amp;hellip; &amp;lt;span &lt;span class=&#34;hljs-built_in&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&amp;ldquo;my-custom-close small&amp;rdquo;&lt;/span&gt;&amp;gt;&amp;lt;/span&amp;gt;
+&amp;lt;/&lt;span class=&#34;hljs-keyword&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/pre&gt;
+&lt;p&gt;Via Javascript:&lt;/p&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&amp;rsquo;#my-message&amp;rsquo;&lt;/span&gt;).message({
+    &lt;span class=&#34;hljs-symbol&#34;&gt;closeSelector:&lt;/span&gt; &lt;span class=&#34;hljs-string&#34;&gt;&amp;rsquo;.my-custom-close&amp;rsquo;&lt;/span&gt;
+});
+&lt;/pre&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-methods&#34;&gt;&lt;a href=&#34;#h-methods&#34;&gt;Methods&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;button onclick=&#34;$(&#39;#message-1&#39;).message(&#39;open&#39;)&#34;&gt;Open&lt;/button&gt; &lt;button onclick=&#34;$(&#39;#message-1&#39;).message(&#39;close&#39;)&#34;&gt;Close&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&#34;message open&#34; data-component=&#34;message&#34; data-loaded=&#34;true&#34; id=&#34;message-1&#34;&gt;
+  You have 2 modules waiting to installation. &lt;a href=&#34;#install&#34;&gt;Install&lt;/a&gt; &lt;span class=&#34;close small&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Method&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;close&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Manually closes a message.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;open&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;Opens a message if it has been closed.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Example&lt;/h4&gt;
+&lt;pre class=&#34;code&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&amp;rsquo;#my-message&amp;rsquo;&lt;/span&gt;).&lt;span class=&#34;hljs-keyword&#34;&gt;message&lt;/span&gt;(&lt;span class=&#34;hljs-string&#34;&gt;&amp;lsquo;close&amp;rsquo;&lt;/span&gt;);&lt;/pre&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-callbacks&#34;&gt;&lt;a href=&#34;#h-callbacks&#34;&gt;Callbacks&lt;/a&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Callback&lt;/th&gt;
+      &lt;th&gt;Description&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;open&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;This event fires immediately when the open instance method is called.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;opened&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;This event is fired when the message has been opened, will wait for CSS animation to complete.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;close&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;This event fires immediately when the close instance method is called.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;code&gt;closed&lt;/code&gt;&lt;/td&gt;
+      &lt;td&gt;This event is fired when the message has been closed, will wait for CSS animation to complete.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Example&lt;/h4&gt;
+&lt;pre class=&#34;code skip&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&amp;rsquo;#my-message&amp;rsquo;&lt;/span&gt;).on(&lt;span class=&#34;hljs-string&#34;&gt;&amp;lsquo;closed.message&amp;rsquo;&lt;/span&gt;, &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;)
+&lt;/span&gt;{
+    &lt;span class=&#34;hljs-comment&#34;&gt;// do something&lt;/span&gt;
+})
+&lt;/pre&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collapse</title>
+      <link>http://www.soilhydrology.com/blog/collapse/</link>
+      <pubDate>Mon, 10 Apr 2017 16:42:50 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/collapse/</guid>
+      <description>&lt;p&gt;&lt;h3 class=&#34;section-head&#34; id=&#34;h-base&#34;&gt;&lt;a href=&#34;#h-base&#34;&gt;Base&lt;/a&gt;&lt;/h3&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;div class=&#34;my-collapse&#34; data-component=&#34;collapse&#34; id=&#34;my-collapse&#34;&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#collapse-box-1&#34;&gt;Item 1&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box hide&#34; id=&#34;collapse-box-1&#34;&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#collapse-box-2&#34;&gt;Item 2&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box&#34; id=&#34;collapse-box-2&#34;&gt;
+      &lt;p&gt;I look active on load.&lt;/p&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#collapse-box-3&#34;&gt;Item 3&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box hide&#34; id=&#34;collapse-box-3&#34;&gt;
+      &lt;h6&gt;Important Heading&lt;/h6&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;my-collapse&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;data-component&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-1&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box hide&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-1&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-2&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-2&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-3&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box hide&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-3&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-navigation-example&#34;&gt;&lt;a href=&#34;#h-navigation-example&#34;&gt;Navigation Example&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Here you can see a list of items forming a navigation menu, with a nested list which acts as a collapsable element&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;ul id=&#34;demo-nav-collapse&#34;&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Installation&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Configuration&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Adding Content&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Templates&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li data-component=&#34;collapse&#34;&gt;
+      &lt;a class=&#34;collapse-toggle&#34; href=&#34;#languages-box-2&#34;&gt;Languages &lt;span class=&#34;caret down&#34;&gt;&lt;/span&gt;&lt;/a&gt;
+      &lt;ul class=&#34;collapse-box&#34; id=&#34;languages-box-2&#34;&gt;
+        &lt;li&gt;
+          &lt;a href=&#34;#&#34;&gt;Setup&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;a href=&#34;#&#34;&gt;Translating content&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;a href=&#34;#&#34;&gt;Language variables&lt;/a&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+          &lt;a href=&#34;#&#34;&gt;Supporting RTL&lt;/a&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Settings&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;Callbacks&lt;/a&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;a href=&#34;#&#34;&gt;API&lt;/a&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;data-component&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#toggle-box&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+            Toggle
+            &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;caret down&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;toggle-box&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;li&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;ul&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-settings&#34;&gt;&lt;a href=&#34;#h-settings&#34;&gt;Settings&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Settings are pretty straightforward: you can toggle, denote active element, turn animation on and off, and more.&lt;/p&gt;
+&lt;h5&gt;toggle&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type: &lt;var&gt;boolean&lt;/var&gt;&lt;/li&gt;
+  &lt;li&gt;Default: &lt;var&gt;true&lt;/var&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;active&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type: &lt;var&gt;string or boolean&lt;/var&gt;&lt;/li&gt;
+  &lt;li&gt;Default: &lt;var&gt;false&lt;/var&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;toggleClass&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type: &lt;var&gt;string&lt;/var&gt;&lt;/li&gt;
+  &lt;li&gt;Default: &lt;var&gt;&#39;collapse-toggle&#39;&lt;/var&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sets a class of a collapsable object.&lt;/p&gt;
+&lt;h5&gt;boxClass&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type: &lt;var&gt;string&lt;/var&gt;&lt;/li&gt;
+  &lt;li&gt;Default: &lt;var&gt;&#39;collapse-box&#39;&lt;/var&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sets a class for collapsable object&#39;s content&lt;/p&gt;
+&lt;h5&gt;animation&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Type: &lt;var&gt;boolean&lt;/var&gt;&lt;/li&gt;
+  &lt;li&gt;Default: &lt;var&gt;true&lt;/var&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Turns animation on and off.&lt;/p&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-callbacks&#34;&gt;&lt;a href=&#34;#h-callbacks&#34;&gt;Callbacks&lt;/a&gt;&lt;/h3&gt;
+&lt;h5&gt;open&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).on(&lt;span class=&#34;hljs-string&#34;&gt;&#39;open.collapse&#39;&lt;/span&gt;, &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;)
+&lt;/span&gt;{
+    &lt;span class=&#34;hljs-comment&#34;&gt;// do something...&lt;/span&gt;
+});
+&lt;/pre&gt;
+&lt;h5&gt;opened&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).on(&lt;span class=&#34;hljs-string&#34;&gt;&#39;opened.collapse&#39;&lt;/span&gt;, &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;)
+&lt;/span&gt;{
+    &lt;span class=&#34;hljs-comment&#34;&gt;// do something...&lt;/span&gt;
+});
+&lt;/pre&gt;
+&lt;h5&gt;close&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).on(&lt;span class=&#34;hljs-string&#34;&gt;&#39;close.collapse&#39;&lt;/span&gt;, &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;)
+&lt;/span&gt;{
+    &lt;span class=&#34;hljs-comment&#34;&gt;// do something...&lt;/span&gt;
+});
+&lt;/pre&gt;
+&lt;h5&gt;closed&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;$(&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).on(&lt;span class=&#34;hljs-string&#34;&gt;&#39;closed.collapse&#39;&lt;/span&gt;, &lt;span class=&#34;hljs-function&#34;&gt;&lt;span class=&#34;hljs-keyword&#34;&gt;function&lt;/span&gt;(&lt;span class=&#34;hljs-params&#34;&gt;&lt;/span&gt;)
+&lt;/span&gt;{
+    &lt;span class=&#34;hljs-comment&#34;&gt;// do something...&lt;/span&gt;
+});
+&lt;/pre&gt;
+&lt;h3 class=&#34;section-head&#34; id=&#34;h-api&#34;&gt;&lt;a href=&#34;#h-api&#34;&gt;API&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We love APIs, and for interactive elements such as collapsable elements we offer ways to programmatically open and close individual elements, or all at once.&lt;/p&gt;
+&lt;div class=&#34;example&#34;&gt;
+  &lt;p&gt;&lt;button class=&#34;button outline&#34; onclick=&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;open&#39;, &#39;#box-2&#39;);&#34;&gt;Open&lt;/button&gt; &lt;button class=&#34;button outline&#34; onclick=&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;close&#39;, &#39;#box-2&#39;);&#34;&gt;Close&lt;/button&gt; &lt;button class=&#34;button outline&#34; onclick=&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;openAll&#39;);&#34;&gt;Open All&lt;/button&gt; &lt;button class=&#34;button outline&#34; onclick=&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;closeAll&#39;);&#34;&gt;Close All&lt;/button&gt;&lt;/p&gt;&lt;br&gt;
+  &lt;div class=&#34;my-collapse&#34; data-component=&#34;collapse&#34; id=&#34;my-collapse-api&#34;&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#box-1&#34;&gt;Item 1&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box hide&#34; id=&#34;box-1&#34;&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#box-2&#34;&gt;Item 2&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box hide&#34; id=&#34;box-2&#34;&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;h4&gt;&lt;a class=&#34;collapse-toggle&#34; href=&#34;#box-3&#34;&gt;Item 3&lt;/a&gt;&lt;/h4&gt;
+    &lt;div class=&#34;collapse-box hide&#34; id=&#34;box-3&#34;&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+      &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;onclick&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;open&#39;, &#39;#box-2&#39;);&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;Open&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;onclick&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;close&#39;, &#39;#box-2&#39;);&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;Close&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;onclick&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;openAll&#39;);&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;Open All&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;onclick&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;$(&#39;#my-collapse-api&#39;).collapse(&#39;closeAll&#39;);&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;Close All&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;button&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;my-collapse-api&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;data-component&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-1&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box hide&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-1&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-2&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box hide&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-2&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;href&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;#box-3&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-toggle&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;a&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;h4&lt;/span&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;class&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;collapse-box hide&#34;&lt;/span&gt; &lt;span class=&#34;hljs-attr&#34;&gt;id&lt;/span&gt;=&lt;span class=&#34;hljs-string&#34;&gt;&#34;box-3&#34;&lt;/span&gt;&amp;gt;&lt;/span&gt;...&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class=&#34;hljs-tag&#34;&gt;&amp;lt;/&lt;span class=&#34;hljs-name&#34;&gt;div&lt;/span&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h5&gt;open&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).collapse(&lt;span class=&#34;hljs-string&#34;&gt;&#39;open&#39;&lt;/span&gt;);
+&lt;/pre&gt;
+&lt;h5&gt;close&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).collapse(&lt;span class=&#34;hljs-string&#34;&gt;&#39;close&#39;&lt;/span&gt;);
+&lt;/pre&gt;
+&lt;h5&gt;openAll&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).collapse(&lt;span class=&#34;hljs-string&#34;&gt;&#39;openAll&#39;&lt;/span&gt;);
+&lt;/pre&gt;
+&lt;h5&gt;closeAll&lt;/h5&gt;
+&lt;pre class=&#34;code skip&#34;&gt;&lt;span class=&#34;hljs-variable&#34;&gt;$(&lt;/span&gt;&lt;span class=&#34;hljs-string&#34;&gt;&#39;#my-collapse&#39;&lt;/span&gt;).collapse(&lt;span class=&#34;hljs-string&#34;&gt;&#39;closeAll&#39;&lt;/span&gt;);
+&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

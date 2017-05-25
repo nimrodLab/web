@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Soil Hydrology</title>
+    <link>http://www.soilhydrology.com/categories/programming/</link>
+    <description>Recent content in Programming on Soil Hydrology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nimrod Schwartz</copyright>
+    <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
+    <atom:link href="/categories/programming/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Post title</title>
+      <link>http://www.soilhydrology.com/project/post/post_sample/</link>
+      <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
+      
+      <guid>http://www.soilhydrology.com/project/post/post_sample/</guid>
+      <description>&lt;p&gt;Write your post.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

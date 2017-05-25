@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on Soil Hydrology</title>
+    <link>http://www.soilhydrology.com/tags/example/</link>
+    <description>Recent content in Example on Soil Hydrology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nimrod Schwartz</copyright>
+    <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
+    <atom:link href="/tags/example/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Soil Hydrology &amp; Hydrogeophysics</title>
+      <link>http://www.soilhydrology.com/blog/welcome/</link>
+      <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/welcome/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-kube-an-open-source-documentation-like-theme-for-hugo&#34;&gt;Welcome to Kube – an open source documentation like theme for Hugo&lt;/h1&gt;
+
+&lt;p&gt;Hi there and welcome to kube - my two theme for the static site generator &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;hugo&lt;/a&gt;. kube is open source and can be found on &lt;a href=&#34;https://kube.elemnts.org/&#34; target=&#34;_blank&#34;&gt;kube&lt;/a&gt;. This article is just a demo post and shows you the style of common used elements.&lt;/p&gt;
+
+&lt;p&gt;Bear claw danish chocolate lollipop soufflé jelly. Apple pie chocolate cake
+jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar
+cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
+
+&lt;p&gt;Chocolate tiramisu pastry &lt;a href=&#34;http://zutrinken.com&#34; target=&#34;_blank&#34;&gt;a link&lt;/a&gt; cotton candy sesame snaps. Dessert cake chocolate bar &lt;strong&gt;a bold part&lt;/strong&gt; sugar plum bonbon 🐓💨 marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie &lt;mark&gt;a marked part&lt;/mark&gt; cheesecake donut. Jelly-o &lt;code&gt;&amp;lt;some&amp;gt; $code&lt;/code&gt; marzipan cake. Bonbon sesame snaps chocolate &lt;em&gt;an italic part&lt;/em&gt; oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate &lt;kbd&gt;⌘&lt;/kbd&gt;+&lt;kbd&gt;A&lt;/kbd&gt; bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+
+&lt;h2 id=&#34;ordered-unordered-lists&#34;&gt;Ordered &amp;amp; Unordered Lists&lt;/h2&gt;
+
+&lt;p&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon. Jelly beans pudding oat cake pie.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jelly beans pudding oat cake pie.&lt;/li&gt;
+&lt;li&gt;Cupcake cupcake oat cake candy lemon&lt;/li&gt;
+&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish&lt;/li&gt;
+&lt;li&gt;Sweet roll sweet sugar plum donut
+
+&lt;ul&gt;
+&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
+&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
+&lt;li&gt;Croissant jujubes topping tart soufflé pudding
+
+&lt;ul&gt;
+&lt;li&gt;Cheesecake caramels icing&lt;/li&gt;
+&lt;li&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop bonbon&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ice cream icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding. Cheesecake caramels icing.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Drops marzipan icing. Dessert topping croissant fruitcake sesame snaps cotton candy sweet danish&lt;/li&gt;
+&lt;li&gt;Sweet roll sweet sugar plum donut
+
+&lt;ul&gt;
+&lt;li&gt;Bear claw gingerbread cake donut chocolate bar&lt;/li&gt;
+&lt;li&gt;Topping cake fruitcake fruitcake&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ice cream icing chupa chups cupcake jelly-o candy&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Liquorice marshmallow sweet macaroon. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.&lt;/p&gt;
+
+&lt;dl&gt;&lt;dt&gt;Ice cream&lt;/dt&gt;&lt;dd&gt;icing chupa chups cupcake jelly-o candy. Croissant jujubes topping tart soufflé pudding&lt;/dd&gt;&lt;dt&gt;Cake&lt;/dt&gt;&lt;dd&gt;Jelly beans pudding oat cake pie&lt;/dd&gt;&lt;dt&gt;Drops marzipan icing&lt;/dt&gt;&lt;dd&gt;Cake jelly-o chocolate cake sugar plum carrot cake lollipop&lt;/dd&gt;&lt;/dl&gt;
+
+&lt;p&gt;Soufflé tart topping gummi bears jujubes lollipop ice cream pudding. Apple pie jelly-o powder powder sweet.&lt;/p&gt;
+
+&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding. Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar plum cake.&lt;/p&gt;
+
+&lt;h2 id=&#34;tables-blockquotes-and-codeblocks&#34;&gt;Tables, Blockquotes and Codeblocks&lt;/h2&gt;
+
+&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;RGB&lt;/th&gt;
+&lt;th&gt;WMYN&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Red&lt;/td&gt;
+&lt;td&gt;Cyan&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Green&lt;/td&gt;
+&lt;td&gt;Magenta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Yellow&lt;/td&gt;
+&lt;td&gt;Black&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Cotton candy pastry ice cream fruitcake tiramisu jelly beans dragée.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake.&lt;/p&gt;
+
+&lt;p&gt;Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Cake soufflé icing gingerbread topping jujubes. Chocolate cake pudding sweet biscuit cake. Soufflé tart topping gummi bears jujubes lollipop ice cream pudding.&lt;/p&gt;
+
+&lt;p&gt;Apple pie jelly-o powder powder sweet. Halvah chocolate bar cotton candy sugar plum cake. Liquorice marshmallow sweet macaroon.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;blockquote&amp;gt;
+    &amp;lt;p&amp;gt;For example.&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Macaroon jelly toffee cheesecake muffin lollipop dragée cake gummies. Cotton candy biscuit cupcake. Cupcake chupa chups carrot cake. Chocolate bar donut gummies wafer pastry sesame snaps oat cake.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Apple pie chocolate cake jelly-o icing bonbon. Gingerbread pastry fruitcake muffin chocolate bar cheesecake. Sugar plum bonbon bonbon lemon drops gummies. Brownie oat cake tart caramels croissant lollipop pastry soufflé lemon drops. Jelly beans dessert toffee caramels brownie ice cream croissant chupa chups liquorice. Danish sweet roll croissant. Powder sugar plum powder danish wafer cake. Candy jelly beans jujubes muffin. Bear claw danish chocolate lollipop soufflé jelly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inline 🐣Text Styles</title>
+      <link>http://www.soilhydrology.com/blog/inline-style/</link>
+      <pubDate>Sun, 02 Apr 2017 21:56:55 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/inline-style/</guid>
+      <description>&lt;p&gt;Chocolate tiramisu pastry a link cotton candy sesame snaps. Dessert cake chocolate bar a bold part sugar plum bonbon marshmallow lollipop toffee soufflé. Donut caramels chocolate bar. Oat cake cookie a marked part cheesecake donut. Jelly-o &lt;some&gt; $code marzipan cake. Bonbon sesame snaps chocolate an italic part oat cake pudding sweet roll caramels bonbon. Soufflé muffin 👻 gummies sugar plum dessert bonbon bear claw. Sweet ice cream jujubes. Marzipan sugar plum pastry chocolate ⌘+A bar fruitcake. Lollipop lollipop brownie.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

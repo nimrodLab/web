@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design on Soil Hydrology</title>
+    <link>http://www.soilhydrology.com/categories/design/</link>
+    <description>Recent content in Design on Soil Hydrology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Nimrod Schwartz</copyright>
+    <lastBuildDate>Sun, 02 Apr 2017 22:01:15 +0100</lastBuildDate>
+    <atom:link href="/categories/design/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Prototyping with markdown</title>
+      <link>http://www.soilhydrology.com/blog/prototyping/</link>
+      <pubDate>Sun, 02 Apr 2017 22:01:15 +0100</pubDate>
+      
+      <guid>http://www.soilhydrology.com/blog/prototyping/</guid>
+      <description>&lt;p&gt;&lt;img data-src=&#34;https://cldup.com/3tov0aCFh8.png&#34; class=&#34;lazyload&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been working on a large set of documentation for a prototype that will eventually make it into a product. One issue with the publishing system at my company is that it makes doing prototypes, or really anything not within the rigidly and narrowly scoped model, difficult to set up. It takes a lot of work just to get to the point where you can begin writing.&lt;/p&gt;
+
+&lt;p&gt;Since time was of the essence and writing is expensive, I decided to do the prototype outside of the publishing system. I also decided to avoid using the rigid DocBook variant we use. Instead, &lt;strong&gt;I figured I do the prototype in Markdown using Hugo generator&lt;/strong&gt;. It gives me reasonably ~full featured Markdown support, flexibility to work wherever I want, easy HTML~ ,nd the stack/sheet metaphor fits nicely with topic based writing.&lt;/p&gt;
+
+&lt;p&gt;I wasn&amp;rsquo;t sure how well the experiment was going to work when I started, but a few weeks in I think it is great. ~I was able to rapidly prototype fifteen topics in about ten days.~ The prototype pages look fairly close to what our actual system generates. ~I can quickly make changes to the content as needed and republish.~ ~The fact that I can work multi-platform is great. I am not chained to my desk. I can demo changes easily.~&lt;/p&gt;
+
+&lt;p&gt;~The fact that I am working in text that doesn&amp;rsquo;t have to be structured in a rigid format makes the work flow faster~. It provides flexibility for quick changes, yet also allows for topic orientation.
+For final production and long term maintenance, unstructured Markdown is not a great solution. There the benefits of the rigidity outweigh the cost. The rigidity enforces uniformity that large groups of variously skilled writers need to create and maintain content at scale.
+&amp;gt; For small, fast projects or prototyping Markdown, with Hugo, have proven to be an excellent solution.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

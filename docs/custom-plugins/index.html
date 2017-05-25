@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme" content="hugo-academic">
+  <meta name="generator" content="Hugo 0.20.7" />
+  <meta name="author" content="Dr. Nimrod Schwartz">
+  <meta name="description" content="Senior Lecturer">
+
+  
+  
+  
+    
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/highlight.min.css">
+    
+  
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/css/academicons.min.css">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono">
+  <link rel="stylesheet" href="/css/hugo-academic.css">
+  
+
+  <link rel="alternate" href="http://www.soilhydrology.com/index.xml" type="application/rss+xml" title="Soil Hydrology">
+  <link rel="feed" href="http://www.soilhydrology.com/index.xml" type="application/rss+xml" title="Soil Hydrology">
+
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
+
+  <link rel="canonical" href="http://www.soilhydrology.com/docs/custom-plugins/">
+
+  
+
+  <title>Custom Plugins | Soil Hydrology</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Soil Hydrology</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#about">
+            
+            <span>Home</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#research">
+            
+            <span>Research</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#publication">
+            
+            <span>Publications</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#Opportunities">
+            
+            <span>Opportunities</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#contact">
+            
+            <span>Contact</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+  <div class="article-container">
+    <h1 itemprop="name">Custom Plugins</h1>
+    
+
+<div class="article-metadata">
+
+  <span class="article-date">
+    <time datetime="0001-01-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+      Mon, Jan 1, 0001
+    </time>
+  </span>
+
+  
+
+  
+
+  
+  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.soilhydrology.com%2fdocs%2fcustom-plugins%2f"
+         target="_blank">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Custom%20Plugins&amp;url=http%3a%2f%2fwww.soilhydrology.com%2fdocs%2fcustom-plugins%2f"
+         target="_blank">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fwww.soilhydrology.com%2fdocs%2fcustom-plugins%2f&amp;title=Custom%20Plugins"
+         target="_blank">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fwww.soilhydrology.com%2fdocs%2fcustom-plugins%2f&amp;title=Custom%20Plugins"
+         target="_blank">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Custom%20Plugins&amp;body=http%3a%2f%2fwww.soilhydrology.com%2fdocs%2fcustom-plugins%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    <div class="article-style" itemprop="articleBody">
+      <p><h3 class="section-head" id="h-plugin"><a href="#h-plugin">Plugin Template</a></h3>
+<p>Here&rsquo;s what a generic plugin looks like. This template gives an overall idea of what you can do with plugins in Kube. Feel free to use this one as a boilerplate for your custom plugins.</p>
+<pre class="code skip">(<span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">Kube</span>)
+</span>{
+    Kube.Myplugin = <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">element, options</span>)
+    </span>{
+        <span class="hljs-keyword">this</span>.namespace = <span class="hljs-string">&lsquo;myplugin&rsquo;</span>;</p>
+
+<pre><code>    &lt;span class=&quot;hljs-comment&quot;&gt;// default settings&lt;/span&gt;
+    &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.defaults = {
+        mysetting: &lt;span class=&quot;hljs-literal&quot;&gt;true&lt;/span&gt;
+    };
+
+    &lt;span class=&quot;hljs-comment&quot;&gt;// Parent Constructor&lt;/span&gt;
+    Kube.apply(&lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;, &lt;span class=&quot;hljs-built_in&quot;&gt;arguments&lt;/span&gt;);
+
+    &lt;span class=&quot;hljs-comment&quot;&gt;// Initialization&lt;/span&gt;
+    &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.start();
+};
+
+&lt;span class=&quot;hljs-comment&quot;&gt;// Functionality&lt;/span&gt;
+Kube.Myplugin.prototype = {
+    start: &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)
+    &lt;/span&gt;{
+        &lt;span class=&quot;hljs-comment&quot;&gt;// plugin element&lt;/span&gt;
+        &lt;span class=&quot;hljs-built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.$element);
+
+        &lt;span class=&quot;hljs-comment&quot;&gt;// call options&lt;/span&gt;
+        &lt;span class=&quot;hljs-built_in&quot;&gt;console&lt;/span&gt;.log(&lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.opts.mysetting);
+
+        &lt;span class=&quot;hljs-comment&quot;&gt;// call methods&lt;/span&gt;
+        &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.method();
+    },
+    method: &lt;span class=&quot;hljs-function&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;function&lt;/span&gt;(&lt;span class=&quot;hljs-params&quot;&gt;&lt;/span&gt;)
+    &lt;/span&gt;{
+        &lt;span class=&quot;hljs-comment&quot;&gt;// do something...&lt;/span&gt;
+
+        &lt;span class=&quot;hljs-comment&quot;&gt;// callback&lt;/span&gt;
+        &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.callback(&lt;span class=&quot;hljs-string&quot;&gt;'show'&lt;/span&gt;);
+
+        &lt;span class=&quot;hljs-comment&quot;&gt;// callback with arguments&lt;/span&gt;
+        &lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.callback(&lt;span class=&quot;hljs-string&quot;&gt;'show'&lt;/span&gt;, value1, value2);
+    }
+};
+
+&lt;span class=&quot;hljs-comment&quot;&gt;// Inheritance&lt;/span&gt;
+Kube.Myplugin.inherits(Kube);
+
+&lt;span class=&quot;hljs-comment&quot;&gt;// Plugin&lt;/span&gt;
+Kube.Plugin.create(&lt;span class=&quot;hljs-string&quot;&gt;'Myplugin'&lt;/span&gt;);
+Kube.Plugin.autoload(&lt;span class=&quot;hljs-string&quot;&gt;'Myplugin'&lt;/span&gt;);
+</code></pre>
+
+<p>}(Kube));
+</pre>
+<h3 class="section-head" id="h-call"><a href="#h-call">Call</a></h3>
+<p>Calling a plugin is very easy, just add the <code>data-component</code> with the name of your plugin and it will start automatic.</p>
+<pre class="code">&lt;<span class="hljs-keyword">div</span> data-component=<span class="hljs-string">&ldquo;myplugin&rdquo;</span>&gt;&lt;/<span class="hljs-keyword">div</span>&gt;</pre>
+<p>Or call manually</p>
+<pre class="code skip"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&ldquo;my-element&rdquo;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></p>
+
+<p><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript">
+    $(<span class="hljs-string">&rsquo;#my-element&rsquo;</span>).myplugin();
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</pre>
+<h3 class="section-head" id="h-callbacks"><a href="#h-callbacks">Callbacks</a></h3>
+<p>Kube plugins can react on events with callbacks. Whenever you need your plugin to do something in response to an action or an event, just use a callback.</p>
+<pre class="code skip"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">id</span>=<span class="hljs-string">&ldquo;myplugin&rdquo;</span> <span class="hljs-attr">data-component</span>=<span class="hljs-string">&ldquo;myplugin&rdquo;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></p>
+
+<p><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript">
+$(<span class="hljs-string">&rsquo;#myplugin&rsquo;</span>).on(<span class="hljs-string">&lsquo;show.myplugin&rsquo;</span>, <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)
+</span>{
+    <span class="hljs-comment">// do something&hellip;</span>
+});
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</pre>
+<p>All plugin methods and variables are available within the plugin via <var>this</var>:</p>
+<pre class="code skip"><span class="hljs-tag">&lt;<span class="hljs-name">script</span>&gt;</span><span class="javascript">
+$(<span class="hljs-string">&rsquo;#myplugin&rsquo;</span>).on(<span class="hljs-string">&lsquo;show.myplugin&rsquo;</span>, <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params"></span>)
+</span>{
+    <span class="hljs-comment">// plugin element</span>
+    <span class="hljs-built_in">console</span>.log(<span class="hljs-keyword">this</span>.$element);</p>
+
+<pre><code>&lt;span class=&quot;hljs-comment&quot;&gt;// call plugin method&lt;/span&gt;
+&lt;span class=&quot;hljs-keyword&quot;&gt;this&lt;/span&gt;.method();
+</code></pre>
+
+<p>});
+</span><span class="hljs-tag">&lt;/<span class="hljs-name">script</span>&gt;</span>
+</pre></p>
+
+    </div>
+  </div>
+
+</article>
+
+<div class="container">
+  <nav>
+  <ul class="pager">
+    
+    <li class="previous"><a href="http://www.soilhydrology.com/docs/typography/"><span
+      aria-hidden="true">&larr;</span> Typography</a></li>
+    
+
+    
+    <li class="next"><a href="http://www.soilhydrology.com/docs/quick-start/">Quick Start <span
+      aria-hidden="true">&rarr;</span></a></li>
+    
+  </ul>
+</nav>
+
+</div>
+
+<div class="article-container">
+  
+
+</div>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="powered-by">
+
+      &copy; 2017 Nimrod Schwartz &middot; 
+
+      Powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic
+      theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+    <script src="/js/jquery-1.12.3.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js"></script>
+    <script src="/js/hugo-academic.js"></script>
+    
+
+    
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-99905157-1', 'auto');
+        ga('send', 'pageview');
+
+         
+        var links = document.querySelectorAll('a');
+        Array.prototype.map.call(links, function(item) {
+            if (item.host != document.location.host) {
+                item.addEventListener('click', function() {
+                    var action = item.getAttribute('data-action') || 'follow';
+                    ga('send', 'event', 'outbound', action, item.href);
+                });
+            }
+        });
+    </script>
+    
+
+    
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+
+  </body>
+</html>
+
